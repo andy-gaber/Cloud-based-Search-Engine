@@ -1,6 +1,6 @@
 # Cloud-based-Search-Engine
 
-<img width="650" alt="design" src="https://github.com/user-attachments/assets/13403a38-7d88-417c-8a5c-1b2d3dedeab5" />
+<img width="750" alt="design" src="https://github.com/user-attachments/assets/13403a38-7d88-417c-8a5c-1b2d3dedeab5" />
 
 
 The final group project for the course Internet and Web Systems at the University of Pennsylvania was a Java-based search engine developed without any framework and deployed on the cloud. 
